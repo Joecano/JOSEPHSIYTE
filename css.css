@@ -1,20 +1,23 @@
 #myname {
-	font-family:Comic Sans MS;
+	font-family:Helvetica Neue;
 	font-size:50px;
-	color:lightgreen;
-	text-decoration:bold;
-	padding-top:2em;
-	padding-left:2em;
+	color:white;
+	font-weight:lighter;
+	padding-top:1em;
+	padding-left:4em;
 }
 #subh {
-	font-family:Comic Sans MS;
-	color:green;
+	font-family:Helvetica Neue;
+	color:white;
+    font-weight:lighter;
 	text-decoration:bold;
 	font-size:25px;
-	padding-left:5em;
+	padding-left:8em;
 }
-* {
-}
-body {
-	background-image:url(bc.gif);
+html { 
+  background: url("http://wallpapercave.com/wp/H08zpjw.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
