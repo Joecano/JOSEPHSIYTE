@@ -1,0 +1,20 @@
+#myname {
+	font-family:Comic Sans MS;
+	font-size:50px;
+	color:lightgreen;
+	text-decoration:bold;
+	padding-top:2em;
+	padding-left:2em;
+}
+#subh {
+	font-family:Comic Sans MS;
+	color:green;
+	text-decoration:bold;
+	font-size:25px;
+	padding-left:5em;
+}
+* {
+}
+body {
+	background-image:url(bc.gif);
+}
