@@ -21,3 +21,21 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+#nav li {
+    float: left;
+    padding:5;
+}
+
+#nav a {
+    display: block;
+    padding: 8px;
+    text-decoration:none;
+    color:white;
+    padding-top:10em;
+    font-size:40px;
+    font-family:Helvetica Neue;
+    font-weight:lighter;
+}
+#tst:hover {
+    color:red;
+}
