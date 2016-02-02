@@ -3,8 +3,9 @@
 	font-size:50px;
 	color:white;
 	font-weight:lighter;
-	padding-top:1em;
+	padding-top:5%;
 	padding-left:4em;
+    psition:fixed;
 }
 #subh {
 	font-family:Helvetica Neue;
@@ -23,19 +24,40 @@ html {
 }
 #nav li {
     float: left;
-    padding:5;
+    padding:6;
 }
 
 #nav a {
     display: block;
-    padding: 8px;
     text-decoration:none;
     color:white;
-    padding-top:10em;
+    padding:5;
     font-size:40px;
     font-family:Helvetica Neue;
     font-weight:lighter;
 }
 #tst:hover {
     color:red;
+}
+#nav {
+    position:relative;
+    padding-top:32%;
+}
+html { font-size: 62.5%; }
+body { font-size: 1em;}
+
+@media (max-width: 300px) {
+    html { font-size: 70%; }
+}
+
+@media (min-width: 500px) {
+    html { font-size: 80%; }
+}
+
+@media (min-width: 700px) {
+    html { font-size: 120%; }
+}
+
+@media (min-width: 1200px) {
+    html { font-size: 200%; }
 }
