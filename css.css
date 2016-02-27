@@ -1,15 +1,14 @@
 #myname {
-	font-family:Helvetica Neue;
-	font-size:50px;
-	color:white;
-	font-weight:lighter;
+	font-family:"Poiret One";
+	font-size:80px;
+	color:black;
 	padding-top:5%;
-	padding-left:4em;
-    psition:fixed;
+	padding-left:9em;
+    position:fixed;
 }
 #subh {
 	font-family:Helvetica Neue;
-	color:white;
+	color:black;
     font-weight:lighter;
 	text-decoration:bold;
 	font-size:25px;
@@ -30,10 +29,10 @@ html {
 #nav a {
     display: block;
     text-decoration:none;
-    color:white;
+    color:black;
     padding:5;
     font-size:40px;
-    font-family:Helvetica Neue;
+    font-family:"Poiret One";
     font-weight:lighter;
 }
 #tst:hover {
@@ -41,7 +40,7 @@ html {
 }
 #nav {
     position:relative;
-    padding-top:32%;
+    padding-top:50%;
 }
 html { font-size: 62.5%; }
 body { font-size: 1em;}
